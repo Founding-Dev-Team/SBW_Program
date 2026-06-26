@@ -1,4 +1,3 @@
-cat > "01 Program Scope/README.md" <<'EOF'
 # SBW Program Scope
 
 *A high-level overview of the Secure Battlefield Wearable (SBW) Program.*

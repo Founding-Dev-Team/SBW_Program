@@ -21,19 +21,14 @@ Whether you are an embedded engineer, firmware developer, software engineer, sys
 
 ```text
 SBW_Program
-â
-âââ 01 Program Scope
-â   Executive overview of the SBW Program, development philosophy,
-â   and long-term vision.
-â
-âââ 02 Mark I Scope
-â   Foundation prototype validating the secure embedded telemetry
-â   pipeline.
-â
-âââ 03 Mark II Scope
-â   Expansion into a modular, multi-sensor telemetry platform.
-â
-âââ assets
+
+    01 Program Scope
+    Executive overview of the SBW Program, development philosophy, and long-term vision.
+    02 Mark I Scope
+    Foundation prototype validating the secure embedded telemetry pipeline.
+    03 Mark II Scope
+    Expansion into a modular, multi-sensor telemetry platform.
+    assets
     Branding, diagrams, prototype media, and supporting resources.
 ```
 
@@ -43,11 +38,11 @@ SBW_Program
 
 | Prototype | Progress | Current Status |
 |-----------|:--------:|----------------|
-| **Mark I** | ð©ð©ð©ð©ð©ð©ð©ð©ð©â¬ **90%** | Final Validation & Documentation |
-| **Mark II** | ð¨â¬â¬â¬â¬â¬â¬â¬â¬â¬ **5%** | Pre-Development |
-| **Mark III** | â¬â¬â¬â¬â¬â¬â¬â¬â¬â¬ **0%** | Planned |
-| **Mark IV** | â¬â¬â¬â¬â¬â¬â¬â¬â¬â¬ **0%** | Planned |
-| **Mark V** | â¬â¬â¬â¬â¬â¬â¬â¬â¬â¬ **0%** | Planned |
+| **Mark I** | 🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜️ **90%** | Final Validation & Documentation |
+| **Mark II** | 🟨⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️ **5%** | Pre-Development |
+| **Mark III** | ◻️◻️◻️◻️◻️◻️◻️◻️◻️◻️ **0%** | Planned |
+| **Mark IV** | ◽️◽️◽️◽️◽️◽️◽️◽️◽️◽️ **0%** | Planned |
+| **Mark V** | ◽️◽️◽️◽️◽️◽️◽️◽️◽️◽️ **0%** | Planned |
 
 ---
 
@@ -68,9 +63,9 @@ This repository exists to:
 
 This repository intentionally focuses on **architecture rather than implementation**.
 
-Implementation-specific documentation â including firmware architecture, communication protocols, internal state machines, timing models, APIs, source code, hardware interfaces, and software implementation details â remains **proprietary** and is maintained separately within Stukes Defense's internal engineering documentation.
+Implementation-specific documentation - including firmware architecture, communication protocols, internal state machines, timing models, APIs, source code, hardware interfaces, and software implementation details - remains **proprietary** and is maintained separately within Stukes Defense's internal engineering documentation.
 
-Public documentation is intended to communicate **why** the program exists, **how** it evolves, and **what** each prototype generation seeks to validate â not **how** proprietary systems are implemented.
+Public documentation is intended to communicate **why** the program exists, **how** it evolves, and **what** each prototype generation seeks to validate - not **how** proprietary systems are implemented.
 
 As the program matures, additional documentation may become available to trusted reviewers, collaborators, contributors, and future engineering team members through controlled review and onboarding processes.
 
